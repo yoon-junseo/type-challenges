@@ -1,0 +1,22 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "description": "[링크](https://github.com/type-challenges/type-challenges/blob/main/README.ko.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoon-junseo/type-challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoon-junseo/type-challenges/issues"
+  },
+  "homepage": "https://github.com/yoon-junseo/type-challenges#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
